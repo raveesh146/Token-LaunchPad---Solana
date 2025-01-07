@@ -1,2 +1,2 @@
-# Starter code
-The code contains the initial HTML and CSS structure for the token launchpad.
+# SOl Token LaunchPad
+## Token LaunchPad that launches tokens with inputted Token MetaData
